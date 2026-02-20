@@ -118,7 +118,7 @@ const Home = () => {
     });
 
     doc.save(
-      `Bala SRM Goods-Bill-${date.replace(/\//g, "-")}-${time.replace(/:/g, "-")}.pdf`
+      `Bala Cocaine Management-Bill-${date.replace(/\//g, "-")}-${time.replace(/:/g, "-")}.pdf`
     );
   };
 
@@ -268,7 +268,7 @@ const Home = () => {
           setShowOrderHistory(false);
         }}
       >
-        Bala SRM Goods
+        Bala Cocaine Management
       </Link>
     </h3>
 
