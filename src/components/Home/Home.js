@@ -65,7 +65,7 @@ const Home = () => {
     // Header
     doc.setFontSize(22);
     doc.setFont("helvetica", "bold");
-    doc.text("Bala SRM Goods RECEIPT", pageWidth / 2, 15, { align: "center" });
+    doc.text("Bala Cocaine Management RECEIPT", pageWidth / 2, 15, { align: "center" });
 
     doc.setFontSize(12);
     doc.setFont("helvetica", "normal");
